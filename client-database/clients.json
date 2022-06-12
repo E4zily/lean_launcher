@@ -1,18 +1,22 @@
 [
   {
     "name": "Lime",
+    "type": "version client",
     "useNoverify": true
   },
   {
     "name": "Rise",
+    "type": "version client",
     "useNoverify": true 
   },
   {
     "name": "Dortware",
+    "type": "version client",
     "useNoverify": true
   },
   {
     "name": "Shitass Software Enterprises",
+    "type": "version client",
     "useNoverify": true
   }
 ]
