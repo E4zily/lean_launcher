@@ -1,11 +1,11 @@
-{
+[
   {
     "name": "Lime",
     "useNoverify": true
   },
   {
     "name": "Rise",
-    "useNoverify": true
+    "useNoverify": true 
   },
   {
     "name": "Dortware",
@@ -15,4 +15,4 @@
     "name": "Shitass Software Enterprises",
     "useNoverify": true
   }
-}
+]
