@@ -2,21 +2,8 @@
   {
     "name": "Lime",
     "type": "version client",
-    "useNoverify": true
-  },
-  {
-    "name": "Rise",
-    "type": "version client",
-    "useNoverify": true 
-  },
-  {
-    "name": "Dortware",
-    "type": "version client",
-    "useNoverify": true
-  },
-  {
-    "name": "Shitass Software Enterprises",
-    "type": "version client",
+    "jarChecksum": "5d59129fad9c90fa61467681585d2398",
+    "jsonChecksum": "06a39e447f4e5af8ed81ddd0aadec114",
     "useNoverify": true
   }
 ]
