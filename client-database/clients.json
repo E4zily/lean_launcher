@@ -1,9 +1,58 @@
 [
   {
-    "name": "Lime",
+    "name": "Autumn",
     "type": "version client",
-    "jarChecksum": "5d59129fad9c90fa61467681585d2398",
-    "jsonChecksum": "06a39e447f4e5af8ed81ddd0aadec114",
-    "useNoverify": true
+    "knownLogger": false,
+    "useNoverify": true,
+    "isPaoloV": false
+  },
+  {
+    "name": "Diablo",
+    "type": "version client",
+    "knownLogger": false,
+    "useNoverify": true,
+    "isPaoloV": false
+  },
+  {
+    "name": "Flux",
+    "type": "version client",
+    "knownLogger": false,
+    "useNoverify": true,
+    "isPaoloV": false
+  },
+  {
+    "name": "Jigsaw",
+    "type": "version client",
+    "knownLogger": false,
+    "useNoverify": true,
+    "isPaoloV": false
+  },
+  {
+    "name": "Rise",
+    "type": "version client",
+    "knownLogger": false,
+    "useNoverify": true,
+    "isPaoloV": false
+  },
+  {
+    "name": "Rose",
+    "type": "version client",
+    "knownLogger": false,
+    "useNoverify": true,
+    "isPaoloV": true
+  },
+  {
+    "name": "Tenacity",
+    "type": "version client",
+    "knownLogger": false,
+    "useNoverify": true,
+    "isPaoloV": true
+  },
+  {
+    "name": "ZeroDay",
+    "type": "version client",
+    "knownLogger": false,
+    "useNoverify": true,
+    "isPaoloV": false
   }
 ]
