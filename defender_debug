@@ -66,6 +66,7 @@ QuarantinePurgeItemsAfterDelay                : 90
 RandomizeScheduleTaskTimes                    : True
 RealTimeScanDirection                         : 0
 RemediationScheduleDay                        : 0
+[4:31 PM]
 RemediationScheduleTime                       : 02:00:00
 ReportingAdditionalActionTimeOut              : 10080
 ReportingCriticalFailureTimeOut               : 10080
