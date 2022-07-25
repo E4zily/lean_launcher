@@ -1,0 +1,103 @@
+AllowDatagramProcessingOnWinServer            : False
+AllowNetworkProtectionDownLevel               : False
+AllowNetworkProtectionOnWinServer             : False
+AllowSwitchToAsyncInspection                  : False
+AttackSurfaceReductionOnlyExclusions          : {N/A: Must be and administrator to view exclusions}
+AttackSurfaceReductionRules_Actions           :
+AttackSurfaceReductionRules_Ids               :
+CheckForSignaturesBeforeRunningScan           : False
+CloudBlockLevel                               : 0
+CloudExtendedTimeout                          : 0
+ComputerID                                    : FF2565E5-F109-47BC-AED8-335F7A674F90
+ControlledFolderAccessAllowedApplications     : {N/A: Must be and administrator to view exclusions}
+ControlledFolderAccessProtectedFolders        :
+DefinitionUpdatesChannel                      : 0
+DisableArchiveScanning                        : False
+DisableAutoExclusions                         : False
+DisableBehaviorMonitoring                     : False
+DisableBlockAtFirstSeen                       : False
+DisableCatchupFullScan                        : True
+DisableCatchupQuickScan                       : True
+DisableCpuThrottleOnIdleScans                 : True
+DisableDatagramProcessing                     : False
+DisableDnsOverTcpParsing                      : False
+DisableDnsParsing                             : False
+DisableEmailScanning                          : True
+DisableFtpParsing                             : False
+DisableGradualRelease                         : False
+DisableHttpParsing                            : False
+DisableInboundConnectionFiltering             : False
+DisableIOAVProtection                         : False
+DisableNetworkProtectionPerfTelemetry         : False
+DisablePrivacyMode                            : False
+DisableRdpParsing                             : False
+DisableRealtimeMonitoring                     : False
+DisableRemovableDriveScanning                 : True
+DisableRestorePoint                           : True
+DisableScanningMappedNetworkDrivesForFullScan : True
+DisableScanningNetworkFiles                   : False
+DisableScriptScanning                         : False
+DisableSshParsing                             : False
+DisableTDTFeature                             : False
+DisableTlsParsing                             : False
+EnableControlledFolderAccess                  : 0
+EnableDnsSinkhole                             : True
+EnableFileHashComputation                     : False
+EnableFullScanOnBatteryPower                  : False
+EnableLowCpuPriority                          : False
+EnableNetworkProtection                       : 0
+EngineUpdatesChannel                          : 0
+ExclusionExtension                            : {N/A: Must be and administrator to view exclusions}
+ExclusionIpAddress                            : {N/A: Must be and administrator to view exclusions}
+ExclusionPath                                 : {N/A: Must be and administrator to view exclusions}
+ExclusionProcess                              : {N/A: Must be and administrator to view exclusions}
+ForceUseProxyOnly                             : False
+HighThreatDefaultAction                       : 0
+LowThreatDefaultAction                        : 0
+MAPSReporting                                 : 2
+MeteredConnectionUpdates                      : False
+ModerateThreatDefaultAction                   : 0
+PlatformUpdatesChannel                        : 0
+ProxyBypass                                   :
+ProxyPacUrl                                   :
+ProxyServer                                   :
+PUAProtection                                 : 0
+QuarantinePurgeItemsAfterDelay                : 90
+RandomizeScheduleTaskTimes                    : True
+RealTimeScanDirection                         : 0
+RemediationScheduleDay                        : 0
+RemediationScheduleTime                       : 02:00:00
+ReportingAdditionalActionTimeOut              : 10080
+ReportingCriticalFailureTimeOut               : 10080
+ReportingNonCriticalTimeOut                   : 1440
+ScanAvgCPULoadFactor                          : 50
+ScanOnlyIfIdleEnabled                         : True
+ScanParameters                                : 1
+ScanPurgeItemsAfterDelay                      : 15
+ScanScheduleDay                               : 0
+ScanScheduleOffset                            : 120
+ScanScheduleQuickScanTime                     : 00:00:00
+ScanScheduleTime                              : 02:00:00
+SchedulerRandomizationTime                    : 4
+ServiceHealthReportInterval                   : 60
+SevereThreatDefaultAction                     : 0
+SharedSignaturesPath                          :
+SignatureAuGracePeriod                        : 0
+SignatureBlobFileSharesSources                :
+SignatureBlobUpdateInterval                   : 60
+SignatureDefinitionUpdateFileSharesSources    :
+SignatureDisableUpdateOnStartupWithoutEngine  : False
+SignatureFallbackOrder                        : MicrosoftUpdateServer|MMPC
+SignatureFirstAuGracePeriod                   : 120
+SignatureScheduleDay                          : 8
+SignatureScheduleTime                         : 01:45:00
+SignatureUpdateCatchupInterval                : 1
+SignatureUpdateInterval                       : 0
+SubmitSamplesConsent                          : 1
+ThreatIDDefaultAction_Actions                 :
+ThreatIDDefaultAction_Ids                     :
+ThrottleForScheduledScanOnly                  : True
+TrustLabelProtectionStatus                    : 0
+UILockdown                                    : False
+UnknownThreatDefaultAction                    : 0
+PSComputerName                                :
