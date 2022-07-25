@@ -31,7 +31,7 @@ DisableIOAVProtection                         : False
 DisableNetworkProtectionPerfTelemetry         : False
 DisablePrivacyMode                            : False
 DisableRdpParsing                             : False
-DisableRealtimeMonitoring                     : False
+DisableRealtimeMonitoring                     : True
 DisableRemovableDriveScanning                 : True
 DisableRestorePoint                           : True
 DisableScanningMappedNetworkDrivesForFullScan : True
@@ -54,7 +54,7 @@ ExclusionProcess                              : {N/A: Must be and administrator 
 ForceUseProxyOnly                             : False
 HighThreatDefaultAction                       : 0
 LowThreatDefaultAction                        : 0
-MAPSReporting                                 : 2
+MAPSReporting                                 : 0
 MeteredConnectionUpdates                      : False
 ModerateThreatDefaultAction                   : 0
 PlatformUpdatesChannel                        : 0
@@ -66,7 +66,6 @@ QuarantinePurgeItemsAfterDelay                : 90
 RandomizeScheduleTaskTimes                    : True
 RealTimeScanDirection                         : 0
 RemediationScheduleDay                        : 0
-[4:31 PM]
 RemediationScheduleTime                       : 02:00:00
 ReportingAdditionalActionTimeOut              : 10080
 ReportingCriticalFailureTimeOut               : 10080
@@ -94,7 +93,7 @@ SignatureScheduleDay                          : 8
 SignatureScheduleTime                         : 01:45:00
 SignatureUpdateCatchupInterval                : 1
 SignatureUpdateInterval                       : 0
-SubmitSamplesConsent                          : 1
+SubmitSamplesConsent                          : 0
 ThreatIDDefaultAction_Actions                 :
 ThreatIDDefaultAction_Ids                     :
 ThrottleForScheduledScanOnly                  : True
