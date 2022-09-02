@@ -19,6 +19,25 @@
       "video_embed": "jORHlyvoCuI"
     },
     {
+      "id": "25",
+      "name": "Rise",
+      "version": "5.100 r1",
+      "last_updated": "some time ago",
+      "description": "For a very short time we're focusing our efforts on Rise 6, Rise 6 is coming very soon.\r\nFast updates, reliable, modern and stylish, performance enhancement. \r\nRise is free on Lean Launcher. \r\nOfficial Rise stores:  intent.store, spezz.exchange",
+      "operating_systems": [
+        "",
+        "",
+        ""
+      ],
+      "access_code": "null",
+      "price": "0.00",
+      "previous_price": "0.00",
+      "connections": {
+        "discord_code": "https://discord.gg/launcher"
+      },
+      "owned": true
+    },
+    {
       "id": "64",
       "name": "Kawaii",
       "version": "b1.5.1",
@@ -37,25 +56,6 @@
       },
       "owned": true,
       "video_embed": "Vy0mqzFDGEw"
-    },
-    {
-      "id": "25",
-      "name": "Rise",
-      "version": "5.100 r3",
-      "last_updated": "32 hours ago",
-      "description": "For a very short time we're focusing our efforts on Rise 6, Rise 6 is coming very soon.\r\nFast updates, reliable, modern and stylish, performance enhancement. \r\nRise is free for youtubers + 2 free unbans per video join Rise discord and open a ticket. \r\nOfficial Rise stores:  intent.store, spezz.exchange",
-      "operating_systems": [
-        "",
-        "",
-        ""
-      ],
-      "access_code": "1v7U307r",
-      "price": "20.00",
-      "previous_price": "20.00",
-      "connections": {
-        "intent_connect_code": "1v7U307r"
-      },
-      "owned": true
     },
     {
       "id": "38",
