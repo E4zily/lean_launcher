@@ -92,8 +92,25 @@
       "id": "55",
       "name": "IceTea",
       "version": "b3.5f",
-      "last_updated": "last month",
+      "last_updated": "some time ago",
       "description": "IceTea is a premium and undetected fully external Minecraft ghost-client.",
+      "operating_systems": [
+        ""
+      ],
+      "access_code": "null",
+      "price": "0.0",
+      "previous_price": "0.0",
+      "connections": {
+        "discord_code": "launcher"
+      },
+      "owned": true
+    },
+    {
+      "id": "59",
+      "name": "Dortware",
+      "version": "b2.0.0",
+      "last_updated": "some time ago",
+      "description": "The latest version of a recently released client that can please players with good performance of functions on servers such as Mineplex and Hypixel. Also, it bypasses the NCP and AAC anti-cheats well.",
       "operating_systems": [
         ""
       ],
@@ -124,25 +141,6 @@
       },
       "owned": true,
       "video_embed": "Vy0mqzFDGEw"
-    },
-    {
-      "id": "59",
-      "name": "Artemis",
-      "version": "070422",
-      "last_updated": "last month",
-      "description": "Insanely good client, with top of the line visuals and bypasses for a wide variety of servers. We aim to update once every 2 weeks.",
-      "operating_systems": [
-        "",
-        "",
-        ""
-      ],
-      "access_code": "RzA0oCki",
-      "price": "15.00",
-      "previous_price": "15.00",
-      "connections": {
-        "intent_connect_code": "RzA0oCki"
-      },
-      "owned": true
     },
     {
       "id": "27",
