@@ -1,0 +1,199 @@
+{
+  "clients": [
+    {
+      "id": "3",
+      "name": "ZeroDay",
+      "version": "b22.2",
+      "last_updated": "last month",
+      "description": "One of the longest running premium Minecraft hacked clients ever. It has remained relevant for nearly half a decade and boasts the most unique and innovative features. ZeroDay has multiple avenues to add content and expand its capabilities. With 1.7 - 1.19 multiplayer support, the cheating doesn't ever stop.",
+      "operating_systems": [
+        "",
+        "",
+        ""
+      ],
+      "access_code": "h1CcCggq",
+      "price": "14.99",
+      "previous_price": "14.99",
+      "connections": {
+        "intent_connect_code": "h1CcCggq",
+        "guilded_code": "rElVYJKk",
+        "website_url": "https://intent.store/zeroday"
+      },
+      "owned": true,
+      "video_embed": "x58iy78brUY"
+    },
+    {
+      "id": "64",
+      "name": "Kawaii",
+      "version": "1.5.1",
+      "last_updated": "7 hours ago",
+      "description": "Kawaii is a cheap client with a variety of ghost and blatant features, it has bypasses for servers such as; Hypixel, Minemen club and many other servers.",
+      "operating_systems": [
+        "",
+        "",
+        ""
+      ],
+      "access_code": "BzAsKOKM",
+      "price": "9.99",
+      "previous_price": "9.99",
+      "connections": {
+        "discord_code": "https://discord.gg/VBhdsTh9xS"
+      },
+      "owned": true,
+      "video_embed": "Vy0mqzFDGEw"
+    },
+    {
+      "id": "25",
+      "name": "Rise",
+      "version": "5.100 r3",
+      "last_updated": "32 hours ago",
+      "description": "For a very short time we're focusing our efforts on Rise 6, Rise 6 is coming very soon.\r\nFast updates, reliable, modern and stylish, performance enhancement. \r\nRise is free for youtubers + 2 free unbans per video join Rise discord and open a ticket. \r\nOfficial Rise stores:  intent.store, spezz.exchange",
+      "operating_systems": [
+        "",
+        "",
+        ""
+      ],
+      "access_code": "1v7U307r",
+      "price": "20.00",
+      "previous_price": "20.00",
+      "connections": {
+        "intent_connect_code": "1v7U307r"
+      },
+      "owned": true
+    },
+    {
+      "id": "38",
+      "name": "Novoline",
+      "version": "5.0",
+      "last_updated": "last month",
+      "description": "migrated to novoline.lol",
+      "operating_systems": [
+        ""
+      ],
+      "access_code": "o5yrWMVj",
+      "price": "19.99",
+      "previous_price": "19.99",
+      "connections": {
+        "intent_connect_code": "o5yrWMVj"
+      },
+      "owned": true
+    },
+    {
+      "id": "65",
+      "name": "Monsoon",
+      "version": "2.3.3.2.4",
+      "last_updated": "last month",
+      "description": "Monsoon is a versatile client that features bypasses mainly for Hypixel, but also servers such as Funcraft, Ghostly, MMC, and more.\r\n\r\nIf you want to purchase with credit/debit cards, crypto, or PaySafeCard, you can do so at https://minecraftclients.com",
+      "operating_systems": [
+        "",
+        ""
+      ],
+      "access_code": "bJQlkIId",
+      "price": "10.00",
+      "previous_price": "9.99",
+      "connections": {
+        "intent_connect_code": "bJQlkIId",
+        "guilded_code": "E6gQmbP",
+        "website_url": "https://monsoon.wtf"
+      },
+      "owned": true
+    },
+    {
+      "id": "55",
+      "name": "Juul",
+      "version": "2.7",
+      "last_updated": "last month",
+      "description": "Take a hit of the only ghost client with a FREE alt generator and 1.7-1.19 multiplayer support...",
+      "operating_systems": [
+        "",
+        "",
+        ""
+      ],
+      "access_code": "WjMRDHBC",
+      "price": "9.99",
+      "previous_price": "9.99",
+      "connections": {
+        "intent_connect_code": "WjMRDHBC",
+        "website_url": "https://juul.lol"
+      },
+      "owned": true,
+      "video_embed": "HaIZHq82qJY"
+    },
+    {
+      "id": "28",
+      "name": "Tenacity",
+      "version": "5.0 ",
+      "last_updated": "last month",
+      "description": "Purchase Tenacity Minecraft client here! Introducing the all-new Tenacity 5.0! This powerful client offers a wide range of features and modules specifically designed for use on the Hypixel network. With its customizable options and easy-to-use interface, Tenacity is the perfect choice for any Minecrafter looking to up their game. Supported servers include, Hypixel, BlocksMC, Minemen, and countless others.",
+      "operating_systems": [
+        "",
+        "",
+        ""
+      ],
+      "access_code": "K3r30n8A",
+      "price": "19.99",
+      "previous_price": "19.99",
+      "connections": {
+        "intent_connect_code": "K3r30n8A",
+        "website_url": "https://tenacity.dev"
+      },
+      "owned": true,
+      "video_embed": "Zpls8qHCuvA"
+    },
+    {
+      "id": "59",
+      "name": "Artemis",
+      "version": "070422",
+      "last_updated": "last month",
+      "description": "Insanely good client, with top of the line visuals and bypasses for a wide variety of servers. We aim to update once every 2 weeks.",
+      "operating_systems": [
+        "",
+        "",
+        ""
+      ],
+      "access_code": "RzA0oCki",
+      "price": "15.00",
+      "previous_price": "15.00",
+      "connections": {
+        "intent_connect_code": "RzA0oCki"
+      },
+      "owned": true
+    },
+    {
+      "id": "27",
+      "name": "Azura",
+      "version": "X 1.3.1",
+      "last_updated": "3 months ago",
+      "description": "Enjoy version X 1.3.1 of Azura! Bypassing on almost any server (including Hypixel), better than ever. Discord: https://discord.com/invite/bW4A99c5nv",
+      "operating_systems": [
+        ""
+      ],
+      "access_code": "739MK2wY",
+      "price": "FREE",
+      "previous_price": "0.00",
+      "connections": {
+        "discord_code": "bW4A99c5nv"
+      },
+      "owned": true
+    },
+    {
+      "id": "18",
+      "name": "Pulsive",
+      "version": "4.25",
+      "last_updated": "4 months ago",
+      "description": "4.25 is finally here. We are accepting any media over 200 views a video. Join our discord below.",
+      "operating_systems": [
+        "",
+        "",
+        ""
+      ],
+      "access_code": "NiyZ4PWT",
+      "price": "20.00",
+      "previous_price": "20.00",
+      "connections": {
+        "intent_connect_code": "NiyZ4PWT"
+      },
+      "owned": true
+    }
+  ]
+}
