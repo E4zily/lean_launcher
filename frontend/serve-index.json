@@ -74,9 +74,26 @@
     {
       "id": "38",
       "name": "Dream",
-      "version": "b4.6",
+      "version": "b4.6d",
       "last_updated": "some time ago",
       "description": "With Dream you get to enjoy our set of powerful and customizable cheats all done right inside your web browser. Our cheats are constantly improved and updated to make sure you are always bypassing.",
+      "operating_systems": [
+        ""
+      ],
+      "access_code": "null",
+      "price": "0.0",
+      "previous_price": "0.0",
+      "connections": {
+        "discord_code": "launcher"
+      },
+      "owned": true
+    },
+    {
+      "id": "55",
+      "name": "IceTea",
+      "version": "b3.5f",
+      "last_updated": "last month",
+      "description": "IceTea is a premium and undetected fully external Minecraft ghost-client.",
       "operating_systems": [
         ""
       ],
@@ -107,27 +124,6 @@
       },
       "owned": true,
       "video_embed": "Vy0mqzFDGEw"
-    },
-    {
-      "id": "55",
-      "name": "Juul",
-      "version": "2.7",
-      "last_updated": "last month",
-      "description": "Take a hit of the only ghost client with a FREE alt generator and 1.7-1.19 multiplayer support...",
-      "operating_systems": [
-        "",
-        "",
-        ""
-      ],
-      "access_code": "WjMRDHBC",
-      "price": "9.99",
-      "previous_price": "9.99",
-      "connections": {
-        "intent_connect_code": "WjMRDHBC",
-        "website_url": "https://juul.lol"
-      },
-      "owned": true,
-      "video_embed": "HaIZHq82qJY"
     },
     {
       "id": "59",
