@@ -72,6 +72,23 @@
       "video_embed": "kKiI3XJwzG4"
     },
     {
+      "id": "38",
+      "name": "Dream",
+      "version": "b4.6",
+      "last_updated": "some time ago",
+      "description": "With Dream you get to enjoy our set of powerful and customizable cheats all done right inside your web browser. Our cheats are constantly improved and updated to make sure you are always bypassing.",
+      "operating_systems": [
+        ""
+      ],
+      "access_code": "null",
+      "price": "0.0",
+      "previous_price": "0.0",
+      "connections": {
+        "discord_code": "launcher"
+      },
+      "owned": true
+    },
+    {
       "id": "64",
       "name": "Kawaii",
       "version": "b1.5.1",
@@ -90,23 +107,6 @@
       },
       "owned": true,
       "video_embed": "Vy0mqzFDGEw"
-    },
-    {
-      "id": "38",
-      "name": "Novoline",
-      "version": "5.0",
-      "last_updated": "last month",
-      "description": "migrated to novoline.lol",
-      "operating_systems": [
-        ""
-      ],
-      "access_code": "o5yrWMVj",
-      "price": "19.99",
-      "previous_price": "19.99",
-      "connections": {
-        "intent_connect_code": "o5yrWMVj"
-      },
-      "owned": true
     },
     {
       "id": "55",
