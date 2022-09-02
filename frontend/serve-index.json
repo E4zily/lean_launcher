@@ -21,13 +21,11 @@
     {
       "id": "25",
       "name": "Rise",
-      "version": "5.100 r1",
+      "version": "b5.100 r1",
       "last_updated": "some time ago",
       "description": "For a very short time we're focusing our efforts on Rise 6, Rise 6 is coming very soon.\r\nFast updates, reliable, modern and stylish, performance enhancement. \r\nRise is free on Lean Launcher. \r\nOfficial Rise stores:  intent.store, spezz.exchange",
       "operating_systems": [
-        "",
-        "",
-        ""
+        ""
       ],
       "access_code": "null",
       "price": "0.00",
@@ -36,6 +34,24 @@
         "discord_code": "https://discord.gg/launcher"
       },
       "owned": true
+    },
+    {
+      "id": "28",
+      "name": "Tenacity",
+      "version": "b5.0",
+      "last_updated": "some time ago",
+      "description": "Get the Tenacity Minecraft client free here! Introducing the all-new Tenacity 5.0! This powerful client offers a wide range of features and modules specifically designed for use on the Hypixel network. With its customizable options and easy-to-use interface, Tenacity is the perfect choice for any Minecrafter looking to up their game. Supported servers include, Hypixel, BlocksMC, Minemen, and countless others.",
+      "operating_systems": [
+        ""
+      ],
+      "access_code": "null",
+      "price": "0.0",
+      "previous_price": "0.0",
+      "connections": {
+        "discord_code": "https://discord.gg/launcher"
+      },
+      "owned": true,
+      "video_embed": "Zpls8qHCuvA"
     },
     {
       "id": "64",
@@ -114,27 +130,6 @@
       },
       "owned": true,
       "video_embed": "HaIZHq82qJY"
-    },
-    {
-      "id": "28",
-      "name": "Tenacity",
-      "version": "5.0 ",
-      "last_updated": "last month",
-      "description": "Purchase Tenacity Minecraft client here! Introducing the all-new Tenacity 5.0! This powerful client offers a wide range of features and modules specifically designed for use on the Hypixel network. With its customizable options and easy-to-use interface, Tenacity is the perfect choice for any Minecrafter looking to up their game. Supported servers include, Hypixel, BlocksMC, Minemen, and countless others.",
-      "operating_systems": [
-        "",
-        "",
-        ""
-      ],
-      "access_code": "K3r30n8A",
-      "price": "19.99",
-      "previous_price": "19.99",
-      "connections": {
-        "intent_connect_code": "K3r30n8A",
-        "website_url": "https://tenacity.dev"
-      },
-      "owned": true,
-      "video_embed": "Zpls8qHCuvA"
     },
     {
       "id": "59",
