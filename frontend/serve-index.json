@@ -54,6 +54,23 @@
       "video_embed": "Zpls8qHCuvA"
     },
     {
+      "id": "65",
+      "name": "Sigma",
+      "version": "b5.0",
+      "last_updated": "some time ago",
+      "description": "Sigma Client is a new cheat client on version 1.8-1.16.5, it contains more than 100 free cheats for Minecraft with flexible settings, buttons for enabling a separate cheat and a bind. The client combines 2 versions of cheats - Sigma Classic and Sigma Jello, which are available to choose from in the cheat menu.",
+      "operating_systems": [
+        ""
+      ],
+      "access_code": "null",
+      "price": "0.0",
+      "previous_price": "0.0",
+      "connections": {
+        "discord_code": "launcher"
+      },
+      "owned": true
+    },
+    {
       "id": "64",
       "name": "Kawaii",
       "version": "b1.5.1",
@@ -87,26 +104,6 @@
       "previous_price": "19.99",
       "connections": {
         "intent_connect_code": "o5yrWMVj"
-      },
-      "owned": true
-    },
-    {
-      "id": "65",
-      "name": "Monsoon",
-      "version": "2.3.3.2.4",
-      "last_updated": "last month",
-      "description": "Monsoon is a versatile client that features bypasses mainly for Hypixel, but also servers such as Funcraft, Ghostly, MMC, and more.\r\n\r\nIf you want to purchase with credit/debit cards, crypto, or PaySafeCard, you can do so at https://minecraftclients.com",
-      "operating_systems": [
-        "",
-        ""
-      ],
-      "access_code": "bJQlkIId",
-      "price": "10.00",
-      "previous_price": "9.99",
-      "connections": {
-        "intent_connect_code": "bJQlkIId",
-        "guilded_code": "E6gQmbP",
-        "website_url": "https://monsoon.wtf"
       },
       "owned": true
     },
