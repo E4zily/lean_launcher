@@ -125,37 +125,37 @@
     {
       "id": "64",
       "name": "Kawaii",
-      "version": "b1.5.1",
-      "last_updated": "7 hours ago",
+      "version": "b1.0",
+      "last_updated": "some time ago",
       "description": "Kawaii is a cheap client with a variety of ghost and blatant features, it has bypasses for servers such as; Hypixel, Minemen club and many other servers.",
       "operating_systems": [
         "",
         "",
         ""
       ],
-      "access_code": "BzAsKOKM",
-      "price": "9.99",
-      "previous_price": "9.99",
+      "access_code": "null",
+      "price": "0.0",
+      "previous_price": "0.0",
       "connections": {
-        "discord_code": "https://discord.gg/VBhdsTh9xS"
+        "discord_code": "launcher"
       },
       "owned": true,
       "video_embed": "Vy0mqzFDGEw"
     },
     {
       "id": "27",
-      "name": "Azura",
-      "version": "X 1.3.1",
-      "last_updated": "3 months ago",
-      "description": "Enjoy version X 1.3.1 of Azura! Bypassing on almost any server (including Hypixel), better than ever. Discord: https://discord.com/invite/bW4A99c5nv",
+      "name": "Dropsy",
+      "version": "0.4.4",
+      "last_updated": "some time ago",
+      "description": "An insanely good old clicker that bypasses most servers and has a lot of features, also includes reach.",
       "operating_systems": [
         ""
       ],
-      "access_code": "739MK2wY",
-      "price": "FREE",
-      "previous_price": "0.00",
+      "access_code": "null",
+      "price": "0.0",
+      "previous_price": "0.0",
       "connections": {
-        "discord_code": "bW4A99c5nv"
+        "discord_code": "launcher"
       },
       "owned": true
     },
