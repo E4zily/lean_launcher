@@ -2,22 +2,18 @@
   "clients": [
     {
       "id": "3",
-      "name": "ZeroDay",
-      "version": "b22.2",
-      "last_updated": "last month",
-      "description": "One of the longest running premium Minecraft hacked clients ever. It has remained relevant for nearly half a decade and boasts the most unique and innovative features. ZeroDay has multiple avenues to add content and expand its capabilities. With 1.7 - 1.19 multiplayer support, the cheating doesn't ever stop.",
+      "name": "Flux",
+      "version": "b39.11",
+      "last_updated": "some time ago",
+      "description": "A clean and visually appealing client made to bypass Hypixel.",
       "operating_systems": [
-        "",
-        "",
-        ""
+        ""
       ],
-      "access_code": "h1CcCggq",
-      "price": "14.99",
-      "previous_price": "14.99",
+      "access_code": "null",
+      "price": "0",
+      "previous_price": "0",
       "connections": {
-        "intent_connect_code": "h1CcCggq",
-        "guilded_code": "rElVYJKk",
-        "website_url": "https://intent.store/zeroday"
+        "discord_code": "https://discord.gg/launcher"
       },
       "owned": true,
       "video_embed": "x58iy78brUY"
@@ -25,7 +21,7 @@
     {
       "id": "64",
       "name": "Kawaii",
-      "version": "1.5.1",
+      "version": "b1.5.1",
       "last_updated": "7 hours ago",
       "description": "Kawaii is a cheap client with a variety of ghost and blatant features, it has bypasses for servers such as; Hypixel, Minemen club and many other servers.",
       "operating_systems": [
